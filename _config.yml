@@ -1,43 +1,9 @@
-title: Hidayah Bashir Dayyib
-description: "Portfolio of Hidayah Bashir Dayyib, Data Analyst and Content Creator"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
-twitter_username: your_twitter_username
-github_username: your_github_username
+title: Hidayah Bashir Dayyib 
 
-#Build settings
-markdown: kramdown
-theme: minima
+#logo: /assets/img/headshot_circle.png
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+description: text below inage
 
-  # Author
-author:
-  name: "Hidayah Bashir Dayyib"
-  email: "your-email@example.com"
-  twitter: your_twitter_username
-  github: your_github_username
-  linkedin: your_linkedin_profile
-  description: "Data Analyst, Content Creator, and Instructor"
+show_downloads: true
 
-  # Permalinks
-permalink: /:categories/:title/
-
-# Google Analytics (optional)
-google_analytics: UA-XXXXXXXX-X
-
-
-#Exclude from processing
-exclude:
-  -Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  
-
+these: jekyll-these-minimal
