@@ -1,10 +1,12 @@
-# Welcome to my Portfolio page.
-Here are my Data Analytics projects in:
-SQL, powerBi, Excel, Tableau and Python
+#Data Analyst
 
-## Project 1
-## Project 2
-## Project 3
-## Project 4
+####Technical Skills: Python, SQL, PowerBI, Tableau, R
+
+##Education
+Hindustan Institute of Technology and Science  (2025)
+
+
+##Work Experience
+
 
 
